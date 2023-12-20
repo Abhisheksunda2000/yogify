@@ -1,4 +1,4 @@
-Documentation is given in yogify_documenation file, 
+Documentation is given in yogify_documenation file, DB schema are shown in the below images
 
 
 
